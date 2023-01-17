@@ -293,16 +293,12 @@ h1 {
     color: purple;
   }
 
-  .footer {
-    justify: center;
-  }
-
 
   /* The CSS for The FOOTER*/
 
   body {
     margin: 0;
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
     background: #ffffff;
 }
 
@@ -418,7 +414,7 @@ a:focus {
 .footer .footer-links a::before {
     position: absolute;
     content: "\f105";
-    font-family: "Font Awesome 5 Free";
+    font-family: 'Sofia Sans Semi Condensed', sans-serif;
     font-weight: 900;
     left: 0;
 }
@@ -536,3 +532,5 @@ a:focus {
     }
     
 }
+
+/* Nav Bar */
